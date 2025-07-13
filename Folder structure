@@ -1,0 +1,6 @@
+email-automation-bot/
+│
+├── leads.csv
+├── email_template.txt
+├── send_emails.py
+├── README.md
