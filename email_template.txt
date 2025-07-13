@@ -1,0 +1,6 @@
+Hi {{name}},
+
+Just wanted to share a quick tip to improve your digital marketing workflow. 
+More tools and resources coming soon!
+
+- Team Digital Marketing Mechanics
